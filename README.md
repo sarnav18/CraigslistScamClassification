@@ -3,8 +3,8 @@ Online classified ads are an essential component of every business' digital mark
 
 The project scope is limited to cars and pickup trucks which are one the most sold items on craigslist and the range of these items being sold is within 60-mile radius of Chicago. The goal of this project is multi-fold.
 
-• First, we want to gain the trust of the audience and increase the credibility of the platform.
+• First, the aim is to gain the trust of the audience and increase the credibility of the platform.
 
-• Second, we want to be able to sell more quickly as genuine ads gather more traction from the buyers.
+• Second, craigslist should able to sell more quickly as genuine ads gather more traction from the buyers.
 
-• Finally, we would be able to save people from getting scammed and increase awareness among the customers.
+• Finally, this will save people from getting scammed and increase awareness among the customers.
